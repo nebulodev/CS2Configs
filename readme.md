@@ -2,7 +2,9 @@
 
 My CS2 configs for different scenarios and utility.
 
-Just type `exec configname` without the `.cfg` in the console and done :)
+Drop these files at the following path: `path/to/cs2/folder/game/csgo/cfg`
+
+Then just type `exec configname` without the `.cfg` in the console and done :)
 
 Currently have:
 - `lineup.cfg` to prepare QOL binds and settings for practicing lineups (sv_cheats)
